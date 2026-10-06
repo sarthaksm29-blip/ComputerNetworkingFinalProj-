@@ -2,7 +2,7 @@
 
 **Capstone Diagnostics & Outage Remediation**  
 *Course:* B.Tech CSE (Computer Networking & Cyber Security) — Semester II  
-*Repository:* [sarthak-cn-ass]()
+*Repository:* [ComputerNetworkingFinalProj](https://github.com/sarthaksm29-blip/ComputerNetworkingFinalProj-)
 
 ---
 
